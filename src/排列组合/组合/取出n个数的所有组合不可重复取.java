@@ -1,8 +1,11 @@
-package 排列组合;
+package 排列组合.组合;
 
-public class 组合n位 {
+/**
+ * a={1,2,3}。当n=2时候的所有组合数为12，13，23
+ */
+public class 取出n个数的所有组合不可重复取 {
     public static void main(String[] args) {
-        组合n位 test = new 组合n位();
+        取出n个数的所有组合不可重复取 test = new 取出n个数的所有组合不可重复取();
         int[] a = {1, 2, 3};
         int n = 2;
         test.combine(a, n);
@@ -29,5 +32,4 @@ public class 组合n位 {
             getCombination(a, n - 1, i + 1, b, index + 1);
         }
     }
-
 }
