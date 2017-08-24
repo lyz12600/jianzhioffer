@@ -99,7 +99,6 @@ public class 字符串运算 {
     }
 
     //从输入流读取输入数据
-
     public static Scanner getScanner(InputStream is) {
         return new Scanner(is);
     }
@@ -151,6 +150,4 @@ public class 字符串运算 {
         }
         return sb.toString();
     }
-
-
 }

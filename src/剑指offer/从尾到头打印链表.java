@@ -1,6 +1,7 @@
 package 剑指offer;
 
-import 剑指offer.bean.ListNode;
+
+import java.util.ArrayList;
 
 /**
  * Created by liyanzhen on 17/3/10.
@@ -8,22 +9,30 @@ import 剑指offer.bean.ListNode;
  */
 
 public class 从尾到头打印链表 {
+    public static ArrayList<Integer> list = new ArrayList<>();
 
     public static void main(String[] args) {
-        ListNode f = new ListNode(null, 1);
-        ListNode e = new ListNode(f, 2);
-        ListNode d = new ListNode(e, 3);
-        ListNode c = new ListNode(d, 4);
-        ListNode b = new ListNode(c, 5);
-        ListNode a = new ListNode(b, 6);
-
-        printFinalListNode(a);
+        ListNode d = new ListNode(6);
+        ListNode c = new ListNode(5);
+        ListNode b = new ListNode(4);
+        ListNode a = new ListNode(3);
+        a.next = b;
+        b.next = c;
+        c.next = d;
+        ArrayList<Integer> list = printListFromTailToHead(a);
+        for (Integer i : list) {
+            System.out.println(i);
+        }
     }
 
-    public static void printFinalListNode(ListNode listNode) {
-        if (listNode.getNextNode() != null) {
-            printFinalListNode(listNode.getNextNode());
+    public static ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
+        if (listNode == null) {
+            return list;
         }
-        System.out.println(listNode.getData());
+        if (listNode.next != null) {
+            printListFromTailToHead(listNode.next);
+        }
+        list.add(listNode.val);
+        return list;
     }
 }

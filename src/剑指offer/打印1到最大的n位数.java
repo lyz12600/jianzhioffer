@@ -100,7 +100,6 @@ public class 打印1到最大的n位数 {
             s.append('0');
         }
         for (int i = 0; i < 10; i++) {
-
             s.setCharAt(0, (char) (i + '0'));
             Print1ToMaxOfNDigits_3_Recursely(s, n, 0);
         }
@@ -129,7 +128,6 @@ public class 打印1到最大的n位数 {
                 System.out.print(s.charAt(i));
             }
         }
-
         System.out.println();
     }
 }
