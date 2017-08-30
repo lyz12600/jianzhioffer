@@ -7,7 +7,7 @@ package 剑指offer;
 public class 第k小的数 {
     public static void main(String[] args) {
         int[] arr = {1, 4, 6, 7, 8, 9, 3, 2};
-        System.out.println(kth_elem(arr, 0, arr.length - 1, 5));
+        System.out.println(kth_elem(arr, 0, arr.length - 1, 1));
     }
 
     public static int kth_elem(int[] arr, int low, int high, int k) {

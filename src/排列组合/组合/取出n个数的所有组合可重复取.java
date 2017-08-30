@@ -1,7 +1,8 @@
 package 排列组合.组合;
 
-import java.util.Scanner;
-
+/**
+ * 如a={1,2,3}。当n=2时候的所有组合数为11,12,13,22,23,33
+ */
 public class 取出n个数的所有组合可重复取 {
     public static void main(String[] args) {
         取出n个数的所有组合可重复取 test = new 取出n个数的所有组合可重复取();

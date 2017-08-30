@@ -49,9 +49,7 @@ public class 数组的逆序对 {
             if (array[i] > array[j]) {
                 copy[indexCopy--] = array[i--];
                 count += j - start - length;
-                if (count >= 1000000007) {
-                    count %= 1000000007;
-                }
+                count %= 1000000007;
             } else {
                 copy[indexCopy--] = array[j--];
             }
