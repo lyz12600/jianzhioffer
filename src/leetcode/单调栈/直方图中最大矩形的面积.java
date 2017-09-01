@@ -2,8 +2,8 @@ package leetcode.单调栈;
 
 import aaa.Template;
 
-import java.util.Arrays;
 import java.util.Scanner;
+import java.util.Stack;
 
 public class 直方图中最大矩形的面积 {
     public static void main(String[] args) {
@@ -14,22 +14,28 @@ public class 直方图中最大矩形的面积 {
             for (int i = 0; i < str.length; i++) {
                 arr[i] = Integer.parseInt(str[i]);
             }
-            int res[] = largestRectangleArea(arr);
-            for (int i = 0; i < res.length; i++) {
-                System.out.print(res[i] + " ");
-            }
-            System.out.println();
+            System.out.println(largestRectangleArea(arr));
         }
     }
 
-    public static int[] largestRectangleArea(int[] heights) {
+    public static int largestRectangleArea(int[] heights) {
         if (heights == null || heights.length < 1) {
-            return null;
+            return 0;
         }
-
-        int[] res = new int[heights.length];
-        Arrays.fill(res, -1);
-
-        return res;
+        int len = heights.length;
+        Stack<Integer> s = new Stack<>();
+        int maxArea = 0;
+        for (int i = 0; i <= len; i++) {
+            //用于存储当前值，最后加一个0,用于全部出栈
+            int h = (i == len ? 0 : heights[i]);
+            if (s.isEmpty() || h >= heights[s.peek()]) {
+                s.push(i);
+            } else {
+                int tp = s.pop();
+                maxArea = Math.max(maxArea, heights[tp] * (s.isEmpty() ? i : i - 1 - s.peek()));
+                i--;
+            }
+        }
+        return maxArea;
     }
 }

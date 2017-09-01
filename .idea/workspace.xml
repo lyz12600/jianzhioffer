@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="430662d5-0545-41e9-821e-f8ecb5d23854" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/交换算法/BubbleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/交换算法/QuickSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/插入算法/InsertHalfSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/插入算法/InsertSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/插入算法/ShellSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/计数排序.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排序算法/选择算法/堆排序.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/multithread/synchronize/SynchronizedTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/公司真题/今日头条/Main01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/公司真题/今日头条/Main02.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/Test.java" afterPath="$PROJECT_DIR$/src/排序算法/其他排序/荷兰旗排序.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/交换算法/BubbleSort.java" afterPath="$PROJECT_DIR$/src/排序算法/内部排序/交换排序/BubbleSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/交换算法/QuickSort.java" afterPath="$PROJECT_DIR$/src/排序算法/内部排序/交换排序/QuickSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/插入算法/InsertHalfSort.java" afterPath="$PROJECT_DIR$/src/排序算法/内部排序/插入排序/InsertHalfSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/插入算法/InsertSort.java" afterPath="$PROJECT_DIR$/src/排序算法/内部排序/插入排序/InsertSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/插入算法/ShellSort.java" afterPath="$PROJECT_DIR$/src/排序算法/内部排序/插入排序/ShellSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/计数排序.java" afterPath="$PROJECT_DIR$/src/排序算法/其他排序/计数排序.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排序算法/选择算法/堆排序.java" afterPath="$PROJECT_DIR$/src/排序算法/内部排序/选择排序/堆排序.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/公司真题/src/今日头条/Main01.java" afterPath="$PROJECT_DIR$/公司真题/src/今日头条/右边部分没有点.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/公司真题/src/今日头条/Main02.java" afterPath="$PROJECT_DIR$/公司真题/src/今日头条/顺序组合后计算.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/公司真题/src/三六零/组队竞赛.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/leetcode/单调栈/直方图中最大的矩形.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/crazy/排列组合/组合/几个数相加不可重复取.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/排列组合/组合/几个数相加不可重复取.java" afterPath="$PROJECT_DIR$/src/排列组合/组合/几个数相加不可重复取暴力.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/aaa/Main.class" afterPath="$PROJECT_DIR$/out/production/crazy/aaa/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/api/transien/TransientDemo.class" afterPath="$PROJECT_DIR$/out/production/crazy/api/transien/TransientDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/api/transien/User.class" afterPath="$PROJECT_DIR$/out/production/crazy/api/transien/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/剑指offer/数组的逆序对.class" afterPath="$PROJECT_DIR$/out/production/crazy/剑指offer/数组的逆序对.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/剑指offer/第k小的数.class" afterPath="$PROJECT_DIR$/out/production/crazy/剑指offer/第k小的数.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/排列组合/组合/取出n个数的所有组合不可重复取.class" afterPath="$PROJECT_DIR$/out/production/crazy/排列组合/组合/取出n个数的所有组合不可重复取.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/排列组合/组合/取出n个数的所有组合可重复取.class" afterPath="$PROJECT_DIR$/out/production/crazy/排列组合/组合/取出n个数的所有组合可重复取.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/multithread/线程池/ThreadPoolTest.class" afterPath="$PROJECT_DIR$/out/production/multithread/线程池/ThreadPoolTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/公司真题/华为/消除重复的数取最大值.class" afterPath="$PROJECT_DIR$/out/production/公司真题/华为/消除重复的数取最大值.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crazy/aaa/input.txt" afterPath="$PROJECT_DIR$/out/production/crazy/aaa/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/公司真题/三六零/input.txt" afterPath="$PROJECT_DIR$/out/production/公司真题/三六零/input.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/aaa/Main.java" afterPath="$PROJECT_DIR$/src/aaa/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/aaa/input.txt" afterPath="$PROJECT_DIR$/src/aaa/input.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/api/transien/TransientDemo.java" afterPath="$PROJECT_DIR$/src/api/transien/TransientDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/剑指offer/数组的逆序对.java" afterPath="$PROJECT_DIR$/src/剑指offer/数组的逆序对.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/剑指offer/第k小的数.java" afterPath="$PROJECT_DIR$/src/剑指offer/第k小的数.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/单调栈/直方图中最大矩形的面积.java" afterPath="$PROJECT_DIR$/src/leetcode/单调栈/直方图中最大矩形的面积.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合不可重复取.java" afterPath="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合不可重复取.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合可重复取.java" afterPath="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合可重复取.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/公司真题/src/三六零/input.txt" afterPath="$PROJECT_DIR$/公司真题/src/三六零/input.txt" />
     </list>
     <ignored path="crazy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,12 +55,15 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="crazy">
@@ -88,24 +73,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="直方图中最大矩形的面积.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/单调栈/直方图中最大矩形的面积.java">
+      <file leaf-file-name="求将m分解成任意个正整数相加之和的所有组合.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/排列组合/组合/求将m分解成任意个正整数相加之和的所有组合.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="74">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#281#290#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aaa/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -116,19 +93,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Interface" />
         <option value="CSS File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>int</find>
-      <find>int[]</find>
-      <find>size</find>
-      <find>table</find>
-      <find>threshold</find>
       <find>hash</find>
       <find>V</find>
       <find>W</find>
@@ -138,7 +110,6 @@
       <find>dp</find>
       <find>ch</find>
       <find>x</find>
-      <find>re</find>
       <find>array</find>
       <find>grayCodeArr</find>
       <find>before</find>
@@ -150,21 +121,22 @@
       <find>组合n位</find>
       <find>start</find>
       <find>end</find>
-      <find>index</find>
       <find>a</find>
       <find>top</find>
       <find>c</find>
+      <find>list</find>
+      <find>index</find>
+      <find>height</find>
+      <find>back</find>
+      <find>Syste</find>
+      <find>int</find>
+      <find>re</find>
     </findStrings>
     <replaceStrings>
-      <replace>6</replace>
-      <replace>Integer</replace>
-      <replace>B</replace>
-      <replace>b</replace>
       <replace>indexStr</replace>
       <replace>indexPattern</replace>
       <replace>c</replace>
       <replace>collatz</replace>
-      <replace>long</replace>
       <replace>byte[]</replace>
       <replace>str.length</replace>
       <replace>w</replace>
@@ -186,6 +158,11 @@
       <replace>arr</replace>
       <replace>index</replace>
       <replace>index_arr</replace>
+      <replace>stack</replace>
+      <replace>list</replace>
+      <replace>heights</replace>
+      <replace>size()-1</replace>
+      <replace>long</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -199,31 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合(不可重复取).java" />
-        <option value="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合不可重复取.java" />
-        <option value="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合可重复取.java" />
-        <option value="$PROJECT_DIR$/src/排列组合/组合/几个数相加不可重复取.java" />
-        <option value="$PROJECT_DIR$/src/api/transien/TransientDemo.java" />
-        <option value="$PROJECT_DIR$/src/api/string/String01.java" />
-        <option value="$PROJECT_DIR$/src/api/string/String02.java" />
-        <option value="$PROJECT_DIR$/src/api/string/String03.java" />
-        <option value="$PROJECT_DIR$/src/api/string/String04.java" />
-        <option value="$PROJECT_DIR$/src/api/string/String05.java" />
-        <option value="$PROJECT_DIR$/src/api/string/StringDemo.java" />
-        <option value="$PROJECT_DIR$/src/api/string/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/api/string/StringHashCode.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/阿里/Main1.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/阿里/Main02.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/阿里/Main03.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/阿里/Template.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/阿里/Main.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/阿里/组团玩游戏.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/阿里/input.txt" />
-        <option value="$PROJECT_DIR$/公司真题/src/今日头条/右边部分没有点.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/今日头条/顺序组合后计算.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer/第k小的数.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/滴滴/Main.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/滴滴/第k大的数.java" />
         <option value="$PROJECT_DIR$/公司真题/src/滴滴/input.txt" />
         <option value="$PROJECT_DIR$/公司真题/src/滴滴/数组和最大.java" />
         <option value="$PROJECT_DIR$/公司真题/src/三六零/Main.java" />
@@ -245,11 +197,36 @@
         <option value="$PROJECT_DIR$/公司真题/src/搜狐/Kolakoski序列.java" />
         <option value="$PROJECT_DIR$/src/leetcode/单调栈/直方图中最大的矩形.java" />
         <option value="$PROJECT_DIR$/src/leetcode/单调栈/当前节点往右走多少步走到比自己大的节点.java" />
-        <option value="$PROJECT_DIR$/src/aaa/Main.java" />
         <option value="$PROJECT_DIR$/公司真题/src/三六零/前面比自己大的数有几个.java" />
-        <option value="$PROJECT_DIR$/公司真题/src/三六零/input.txt" />
-        <option value="$PROJECT_DIR$/src/aaa/input.txt" />
         <option value="$PROJECT_DIR$/src/leetcode/单调栈/直方图中最大矩形的面积.java" />
+        <option value="$PROJECT_DIR$/src/aaa/input.txt" />
+        <option value="$PROJECT_DIR$/src/水塘抽样/水塘抽样问题.java" />
+        <option value="$PROJECT_DIR$/公司真题/src/ofo/Main.java" />
+        <option value="$PROJECT_DIR$/公司真题/src/ofo/Main1.java" />
+        <option value="$PROJECT_DIR$/公司真题/src/ofo/input.txt" />
+        <option value="$PROJECT_DIR$/公司真题/src/ofo/Test.java" />
+        <option value="$PROJECT_DIR$/公司真题/src/ofo/Main2.java" />
+        <option value="$PROJECT_DIR$/src/面试/最大公约数最小公倍数.java" />
+        <option value="$PROJECT_DIR$/公司真题/src/三六零/input.txt" />
+        <option value="$PROJECT_DIR$/公司真题/src/三六零/组队竞赛.java" />
+        <option value="$PROJECT_DIR$/src/aaa/Main.java" />
+        <option value="$PROJECT_DIR$/公司真题/src/美团/input.txt" />
+        <option value="$PROJECT_DIR$/公司真题/src/美团/Main.java" />
+        <option value="$PROJECT_DIR$/公司真题/src/美团/改试卷.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/最长递增子序列.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/排列/全排列不重复.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/排列/全排列可重复取.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/排列/全排列不可重复取非递归.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/排列/数组a中取n个数的所有排列.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/排列/全排列不重复递归.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合不可重复取.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合可重复取.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/几个数相加不可重复取.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/输出数组a的所有组合.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/输出数组a的所有组合不可重复取.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/输出数组的所有组合可重复取.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/将m分解成n个正整数相加之和的所有组合不可重复取.java" />
+        <option value="$PROJECT_DIR$/src/排列组合/组合/求将m分解成任意个正整数相加之和的所有组合.java" />
       </list>
     </option>
   </component>
@@ -328,9 +305,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
@@ -342,23 +316,25 @@
             <path>
               <item name="crazy" type="58d84e3e:PackageViewProjectNode" />
               <item name="crazy" type="616d4139:PackageViewModuleNode" />
-              <item name="aaa" type="1f31426a:PackageElementNode" />
+              <item name="排列组合" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="crazy" type="58d84e3e:PackageViewProjectNode" />
               <item name="crazy" type="616d4139:PackageViewModuleNode" />
-              <item name="leetcode" type="1f31426a:PackageElementNode" />
+              <item name="排列组合" type="1f31426a:PackageElementNode" />
+              <item name="组合" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="crazy" type="58d84e3e:PackageViewProjectNode" />
-              <item name="crazy" type="616d4139:PackageViewModuleNode" />
-              <item name="leetcode" type="1f31426a:PackageElementNode" />
-              <item name="单调栈" type="1f31426a:PackageElementNode" />
+              <item name="公司真题" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,16 +345,21 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="Stringbu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;LinkedHa&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;HashSet&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java&#10;Inputstream&#9;PSI&#9;JAVA://java.io.InputStream&#10;Appclas&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;Bootstr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/linker/Bootstrap.class&#10;ReferenceQu&#9;PSI&#9;JAVA://java.lang.ref.ReferenceQueue&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;WeakRe&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/ref/WeakReference.java&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;Executors&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java&#10;Asynch&#9;PSI&#9;JAVA://sun.nio.ch.AsynchronousChannelGroupImpl&#10;Execu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java&#10;Thre&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Forjoin&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinPool&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Executor&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java&#10;Block&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java&#10;Lock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java&#10;Coni&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java&#10;Reen&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Arrlist&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ArrayIndexOutOfBoundsException&#9;PSI&#9;JAVA://java.lang.ArrayIndexOutOfBoundsException&#10;Exception&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Exception.class&#10;Error&#9;PSI&#9;JAVA://java.lang.Error&#10;Throw&#9;PSI&#9;JAVA://java.lang.Throwable&#10;Socke&#9;PSI&#9;JAVA://java.net.Socket&#10;H&#9;null&#9;null&#10;Hash&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Matj&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Math.java&#10;Hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;String.java&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;TimS&#9;PSI&#9;JAVA://java.util.TimSort&#10;segmentShift&#9;null&#9;null&#10;segmentFo&#9;PSI&#9;JAVA://sun.jvm.hotspot.memory.CodeHeap#segmentFor&#10;MAX&#9;PSI&#9;JAVA://java.time.LocalTime#MAX&#10;Entry&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="ConcurrentHash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;HashT&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Hashtable.java&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Long&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Long.java&#10;Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Threadlocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Li&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Collections\&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Collections.java&#10;Stringbu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;LinkedHa&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;HashSet&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java&#10;Inputstream&#9;PSI&#9;JAVA://java.io.InputStream&#10;Appclas&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;Bootstr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/linker/Bootstrap.class&#10;ReferenceQu&#9;PSI&#9;JAVA://java.lang.ref.ReferenceQueue&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;WeakRe&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/ref/WeakReference.java&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;Executors&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java&#10;Asynch&#9;PSI&#9;JAVA://sun.nio.ch.AsynchronousChannelGroupImpl&#10;Execu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java&#10;Thre&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Forjoin&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinPool&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Executor&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java&#10;Block&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java&#10;Lock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java&#10;Coni&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java&#10;Reen&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Arrlist&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ArrayIndexOutOfBoundsException&#9;PSI&#9;JAVA://java.lang.ArrayIndexOutOfBoundsException&#10;Exception&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Exception.class&#10;Error&#9;PSI&#9;JAVA://java.lang.Error&#10;Throw&#9;PSI&#9;JAVA://java.lang.Throwable&#10;Socke&#9;PSI&#9;JAVA://java.net.Socket&#10;H&#9;null&#9;null&#10;Hash&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Matj&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Math.java&#10;Hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;String.java&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;TimS&#9;PSI&#9;JAVA://java.util.TimSort&#10;segmentShift&#9;null&#9;null&#10;segmentFo&#9;PSI&#9;JAVA://sun.jvm.hotspot.memory.CodeHeap#segmentFor&#10;MAX&#9;PSI&#9;JAVA://java.time.LocalTime#MAX&#10;Entry&#9;null&#9;null" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/concurrentcoreapi/semaphore/SemaphoreTest2" />
-      <recent name="$PROJECT_DIR$/src/JVM/chaptertwo" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/公司真题/src/腾讯" />
+      <recent name="$PROJECT_DIR$/src/leetcode/triangle" />
+      <recent name="$PROJECT_DIR$/src/leetcode" />
       <recent name="$PROJECT_DIR$/src/lingsan/test" />
+      <recent name="$PROJECT_DIR$/src/JVM/chaptertwo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="aaa" />
@@ -387,12 +368,10 @@
       <recent name="concurrentcoreapi.semaphore.acquireUninterruptibly" />
       <recent name="concurrentcoreapi.semaphore.acquireUninterruptibly.acquireUninterruptibly" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/公司真题/src/腾讯" />
-      <recent name="$PROJECT_DIR$/src/leetcode/triangle" />
-      <recent name="$PROJECT_DIR$/src/leetcode" />
-      <recent name="$PROJECT_DIR$/src/lingsan/test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/concurrentcoreapi/semaphore/SemaphoreTest2" />
       <recent name="$PROJECT_DIR$/src/JVM/chaptertwo" />
+      <recent name="$PROJECT_DIR$/src/lingsan/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,53 +386,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.前面比自己大的数有几个">
-    <configuration name="前面比自己大的数有几个" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.求将m分解成任意个正整数相加之和的所有组合">
+    <configuration name="输出数组的所有组合可重复取" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="三六零.*" />
+          <option name="PATTERN" value="排列组合.组合.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="三六零.前面比自己大的数有几个" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="公司真题" />
-      <envs />
-    </configuration>
-    <configuration name="荷兰旗排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="排序算法.其他排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="排序算法.其他排序.荷兰旗排序" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="crazy" />
-      <envs />
-    </configuration>
-    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="排序算法.内部排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="排序算法.内部排序.归并排序" />
+      <option name="MAIN_CLASS_NAME" value="排列组合.组合.输出数组的所有组合可重复取" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -473,6 +414,44 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="排列组合.组合.几个数相加不可重复取" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
+    <configuration name="走几步再走回来" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="阿里.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="阿里.走几步再走回来" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="公司真题" />
+      <envs />
+    </configuration>
+    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="排序算法.内部排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="排序算法.内部排序.归并排序" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -579,33 +558,14 @@
       <module name="公司真题" />
       <envs />
     </configuration>
-    <configuration name="旋转数组的最小数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="组队竞赛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
+          <option name="PATTERN" value="三六零.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="剑指offer.旋转数组的最小数字" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="crazy" />
-      <envs />
-    </configuration>
-    <configuration name="走几步再走回来" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="阿里.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="阿里.走几步再走回来" />
+      <option name="MAIN_CLASS_NAME" value="三六零.组队竞赛" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -615,25 +575,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="公司真题" />
-      <envs />
-    </configuration>
-    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="排序算法.内部排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="排序算法.内部排序.归并排序" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="crazy" />
       <envs />
     </configuration>
     <configuration name="从出发到指定公用多少步" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -653,6 +594,44 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="公司真题" />
+      <envs />
+    </configuration>
+    <configuration name="荷兰旗排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="排序算法.其他排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="排序算法.其他排序.荷兰旗排序" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
+    <configuration name="替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="剑指offer.替换空格" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
       <envs />
     </configuration>
     <configuration name="生成格雷码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -750,14 +729,14 @@
       <module name="公司真题" />
       <envs />
     </configuration>
-    <configuration name="替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="剑指offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="剑指offer.替换空格" />
+      <option name="MAIN_CLASS_NAME" value="剑指offer.从尾到头打印链表" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -769,14 +748,14 @@
       <module name="crazy" />
       <envs />
     </configuration>
-    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
+          <option name="PATTERN" value="排序算法.内部排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="剑指offer.从尾到头打印链表" />
+      <option name="MAIN_CLASS_NAME" value="排序算法.内部排序.归并排序" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -845,6 +824,82 @@
       <module name="crazy" />
       <envs />
     </configuration>
+    <configuration name="直方图中最大矩形的面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.单调栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.单调栈.直方图中最大矩形的面积" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
+    <configuration name="水塘抽样问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="水塘抽样.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="水塘抽样.水塘抽样问题" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
+    <configuration name="输出数组的所有组合不可重复取" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="排列组合.组合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="排列组合.组合.输出数组的所有组合不可重复取" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
+    <configuration name="几个数相加不可重复取暴力" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="排列组合.组合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="排列组合.组合.几个数相加不可重复取暴力" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
     <configuration name="InvokeRun" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -862,44 +917,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="crazy" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="aaa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="aaa.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="crazy" />
-      <envs />
-    </configuration>
-    <configuration name="Main03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="阿里.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="阿里.Main03" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="公司真题" />
       <envs />
     </configuration>
     <configuration name="OOMObject" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -986,6 +1003,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -1143,18 +1172,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="crazy" />
-      <envs />
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
@@ -1167,19 +1184,61 @@
       <envs />
       <method />
     </configuration>
-    <list size="6">
+    <configuration name="求将m分解成任意个正整数相加之和的所有组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="排列组合.组合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="排列组合.组合.求将m分解成任意个正整数相加之和的所有组合" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
+    <configuration name="将m分解成n个正整数相加之和的所有组合不可重复取" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="排列组合.组合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="排列组合.组合.将m分解成n个正整数相加之和的所有组合不可重复取" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="crazy" />
+      <envs />
+    </configuration>
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Application.InvokeRun" />
       <item index="1" class="java.lang.String" itemvalue="Application.OOMObject" />
       <item index="2" class="java.lang.String" itemvalue="Application.TestSize" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main03" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="5" class="java.lang.String" itemvalue="Application.前面比自己大的数有几个" />
+      <item index="3" class="java.lang.String" itemvalue="Application.几个数相加不可重复取暴力" />
+      <item index="4" class="java.lang.String" itemvalue="Application.输出数组的所有组合不可重复取" />
+      <item index="5" class="java.lang.String" itemvalue="Application.输出数组的所有组合可重复取" />
+      <item index="6" class="java.lang.String" itemvalue="Application.将m分解成n个正整数相加之和的所有组合不可重复取" />
+      <item index="7" class="java.lang.String" itemvalue="Application.求将m分解成任意个正整数相加之和的所有组合" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.前面比自己大的数有几个" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main03" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.求将m分解成任意个正整数相加之和的所有组合" />
+        <item index="1" class="java.lang.String" itemvalue="Application.将m分解成n个正整数相加之和的所有组合不可重复取" />
+        <item index="2" class="java.lang.String" itemvalue="Application.输出数组的所有组合可重复取" />
+        <item index="3" class="java.lang.String" itemvalue="Application.输出数组的所有组合不可重复取" />
+        <item index="4" class="java.lang.String" itemvalue="Application.几个数相加不可重复取暴力" />
       </list>
     </recent_temporary>
   </component>
@@ -1192,7 +1251,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_FIELDS" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1444,12 +1503,18 @@
       <workItem from="1503881749789" duration="1862000" />
       <workItem from="1503883889589" duration="15657000" />
       <workItem from="1503968668312" duration="27283000" />
-      <workItem from="1504054426183" duration="1066000" />
+      <workItem from="1504054426183" duration="17641000" />
+      <workItem from="1504092584884" duration="7421000" />
+      <workItem from="1504142616314" duration="35000" />
+      <workItem from="1504142661198" duration="707000" />
+      <workItem from="1504144283168" duration="7023000" />
+      <workItem from="1504163416335" duration="8626000" />
+      <workItem from="1504227787599" duration="13063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1589550000" />
+    <option name="totallyTimeSpent" value="1643000000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1466,22 +1531,27 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756326" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31690142" sideWeight="0.42643228" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5366197" sideWeight="0.57942706" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43661973" sideWeight="0.5891927" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.49739584" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5408451" sideWeight="0.6139323" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4492958" sideWeight="0.45833334" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20572917" sideWeight="0.40696117" order="7" side_tool="false" content_ui="tabs" x="2090" y="87" width="299" height="748" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31184897" sideWeight="0.4028169" order="7" side_tool="false" content_ui="tabs" x="2090" y="87" width="299" height="748" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21256684" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25976562" sideWeight="0.4893048" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253521" sideWeight="0.49739584" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27734375" sideWeight="0.44507042" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2419825" sideWeight="0.5930388" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27734375" sideWeight="0.55492955" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5408451" sideWeight="0.38606772" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1490,14 +1560,9 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43661973" sideWeight="0.4075521" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31690142" sideWeight="0.45247397" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" x="1540" y="123" width="1400" height="677" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35211268" sideWeight="0.59244794" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21256684" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253521" sideWeight="0.49739584" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1539,7 +1604,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="727" />
+      <option name="time" value="768" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1560,369 +1625,528 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/阿里/Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/华为/字符串分类.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/最小的k个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/华为/ScannerHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/华为/消除重复的数取最大值.java">
+    <entry file="file://$PROJECT_DIR$/公司真题/src/ofo/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
-          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+          <caret line="151" column="20" lean-forward="false" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/List.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/invoke/MethodHandleImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/第k小的数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/滴滴/第k大的数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/和为s的连续正数序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/滴滴/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/连续子数组的最大和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/滴滴/数组和最大.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序算法/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序算法/其他排序/荷兰旗排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序算法/其他排序/计数排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序算法/内部排序/基数排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="2032" column="20" lean-forward="false" selection-start-line="2032" selection-start-column="20" selection-end-line="2032" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="95" column="6" lean-forward="false" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序算法/内部排序/选择排序/堆排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序算法/内部排序/选择排序/简单选择排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/数组的逆序对.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2468" column="8" lean-forward="false" selection-start-line="2468" selection-start-column="8" selection-end-line="2468" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="167" column="5" lean-forward="false" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="333" column="29" lean-forward="false" selection-start-line="333" selection-start-column="29" selection-end-line="333" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/排序算法/内部排序/归并排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        <state relative-caret-position="134">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="98" column="6" lean-forward="false" selection-start-line="98" selection-start-column="6" selection-end-line="98" selection-end-column="6" />
+        <state relative-caret-position="115">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/华为/进制转换2到62进制.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        <state relative-caret-position="115">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/搜狐/装箱问题.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="250">
+          <caret line="1470" column="0" lean-forward="false" selection-start-line="1470" selection-start-column="0" selection-end-line="1470" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/搜狐/input.txt">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Properties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="115">
+          <caret line="968" column="0" lean-forward="false" selection-start-line="968" selection-start-column="0" selection-end-line="968" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/搜狐/Kolakoski序列.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/invoke/MethodHandleStatics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        <state relative-caret-position="105">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/今日头条/右边部分没有点.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/invoke/MethodHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="278">
+          <caret line="1450" column="0" lean-forward="false" selection-start-line="1450" selection-start-column="0" selection-end-line="1450" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/拼多多/矩阵找最长.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/invoke/MemberName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-737">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="115">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/今日头条/顺序组合后计算.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/invoke/MethodHandleNatives.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="115">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="93" column="29" lean-forward="false" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+        <state relative-caret-position="76">
+          <caret line="530" column="0" lean-forward="false" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="325" column="32" lean-forward="false" selection-start-line="325" selection-start-column="32" selection-end-line="325" selection-end-column="32" />
+        <state relative-caret-position="76">
+          <caret line="713" column="0" lean-forward="false" selection-start-line="713" selection-start-column="0" selection-end-line="713" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/阿里/组团玩游戏.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/PostVMInitHook.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="115">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/阿里/Main02.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar!/sun/launcher/LauncherHelper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        <state relative-caret-position="91">
+          <caret line="385" column="0" lean-forward="false" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="115">
+          <caret line="1382" column="0" lean-forward="false" selection-start-line="1382" selection-start-column="0" selection-end-line="1382" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/阿里/input.txt">
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/树中两个结点的最低公共祖先.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="2320">
+          <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/阿里/Main03.java">
+    <entry file="file://$PROJECT_DIR$/src/面试/最大公约数最小公倍数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/前面比自己大的数有几个.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/卖粉笔问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="830" column="0" lean-forward="false" selection-start-line="830" selection-start-column="0" selection-end-line="830" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#60784#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/Long.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="41" column="35" lean-forward="false" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <caret line="64" column="37" lean-forward="false" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/阿里/AC从出发到指定用多少步.java">
+    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6944" lean-forward="false" selection-start-line="0" selection-start-column="6944" selection-end-line="0" selection-end-column="6944" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aaa/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.Arrays</node>
+            <node x="" y="">java.util.Enumeration</node>
+            <node x="" y="">java.util.AbstractQueue</node>
+            <node x="" y="">java.util.InputMismatchException</node>
+            <node x="" y="">java.util.DoubleSummaryStatistics</node>
+            <node x="" y="">java.util.zip</node>
+            <node x="" y="">java.util.regex</node>
+            <node x="" y="">java.util.Vector</node>
+            <node x="" y="">java.util.Map</node>
+            <node x="" y="">java.util.TimerTask</node>
+            <node x="" y="">java.util.EnumSet</node>
+            <node x="" y="">java.util.DuplicateFormatFlagsException</node>
+            <node x="" y="">java.util.GregorianCalendar</node>
+            <node x="" y="">java.util.EnumMap</node>
+            <node x="" y="">java.util.MissingFormatWidthException</node>
+            <node x="" y="">java.util.FormattableFlags</node>
+            <node x="" y="">java.util.MissingResourceException</node>
+            <node x="" y="">java.util.Set</node>
+            <node x="" y="">java.util.PropertyResourceBundle</node>
+            <node x="" y="">java.util.RegularEnumSet</node>
+            <node x="" y="">java.util.EventListener</node>
+            <node x="" y="">java.util.ArraysParallelSortHelpers</node>
+            <node x="" y="">java.util.EventListenerProxy</node>
+            <node x="" y="">java.util.ConcurrentModificationException</node>
+            <node x="" y="">java.util.Dictionary</node>
+            <node x="" y="">java.util.logging</node>
+            <node x="" y="">java.util.TaskQueue</node>
+            <node x="" y="">java.util.stream</node>
+            <node x="" y="">java.util.FormatFlagsConversionMismatchException</node>
+            <node x="" y="">java.util.Currency</node>
+            <node x="" y="">java.util.TreeSet</node>
+            <node x="" y="">java.util.ArrayList</node>
+            <node x="" y="">java.util.InvalidPropertiesFormatException</node>
+            <node x="" y="">java.util.LinkedHashMap</node>
+            <node x="" y="">java.util.RandomAccess</node>
+            <node x="" y="">java.util.OptionalLong</node>
+            <node x="" y="">java.util.SubList</node>
+            <node x="" y="">java.util.Calendar</node>
+            <node x="" y="">java.util.ResourceBundle</node>
+            <node x="" y="">java.util.StringTokenizer</node>
+            <node x="" y="">java.util.IllegalFormatWidthException</node>
+            <node x="" y="">java.util.LinkedHashSet</node>
+            <node x="" y="">java.util.LocaleISOData</node>
+            <node x="" y="">java.util.EmptyStackException</node>
+            <node x="" y="">java.util.Properties</node>
+            <node x="" y="">java.util.TooManyListenersException</node>
+            <node x="" y="">java.util.UnknownFormatFlagsException</node>
+            <node x="" y="">java.util.FormatterClosedException</node>
+            <node x="" y="">java.util.IllformedLocaleException</node>
+            <node x="" y="">java.util.TreeMap</node>
+            <node x="" y="">java.util.PropertyPermissionCollection</node>
+            <node x="" y="">java.util.Comparators</node>
+            <node x="" y="">java.util.ArrayDeque</node>
+            <node x="" y="">java.util.spi</node>
+            <node x="" y="">java.util.Observer</node>
+            <node x="" y="">java.util.ComparableTimSort</node>
+            <node x="" y="">java.util.SortedSet</node>
+            <node x="" y="">java.util.ListIterator</node>
+            <node x="" y="">java.util.Date</node>
+            <node x="" y="">java.util.PriorityQueue</node>
+            <node x="" y="">java.util.Tripwire</node>
+            <node x="" y="">java.util.Spliterators</node>
+            <node x="" y="">java.util.AbstractList</node>
+            <node x="" y="">java.util.Scanner</node>
+            <node x="" y="">java.util.Random</node>
+            <node x="" y="">java.util.Timer</node>
+            <node x="" y="">java.util.prefs</node>
+            <node x="" y="">java.util.PropertyPermission</node>
+            <node x="" y="">java.util.Formatter</node>
+            <node x="" y="">java.util.EventObject</node>
+            <node x="" y="">java.util.IllegalFormatPrecisionException</node>
+            <node x="" y="">java.util.AbstractCollection</node>
+            <node x="" y="">java.util.ArrayPrefixHelpers</node>
+            <node x="" y="">java.util.Locale</node>
+            <node x="" y="">java.util.SplittableRandom</node>
+            <node x="" y="">java.util.IllegalFormatException</node>
+            <node x="" y="">java.util.IdentityHashMap</node>
+            <node x="" y="">java.util.concurrent</node>
+            <node x="" y="">java.util.TimeZone</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.NavigableSet</node>
+            <node x="" y="">java.util.ServiceLoader</node>
+            <node x="" y="">java.util.UUID</node>
+            <node x="" y="">java.util.NavigableMap</node>
+            <node x="" y="">java.util.AbstractSequentialList</node>
+            <node x="" y="">java.util.Objects</node>
+            <node x="" y="">java.util.Base64</node>
+            <node x="" y="">java.util.List</node>
+            <node x="" y="">java.util.Optional</node>
+            <node x="" y="">java.util.function</node>
+            <node x="" y="">java.util.Queue</node>
+            <node x="" y="">java.util.SimpleTimeZone</node>
+            <node x="" y="">java.util.Spliterator</node>
+            <node x="" y="">java.util.SortedMap</node>
+            <node x="" y="">java.util.Formattable</node>
+            <node x="" y="">java.util.TimerThread</node>
+            <node x="" y="">java.util.AbstractSet</node>
+            <node x="" y="">java.util.OptionalDouble</node>
+            <node x="" y="">java.util.HashMap</node>
+            <node x="" y="">java.util.Deque</node>
+            <node x="" y="">java.util.MissingFormatArgumentException</node>
+            <node x="" y="">java.util.OptionalInt</node>
+            <node x="" y="">java.util.Stack</node>
+            <node x="" y="">java.util.DualPivotQuicksort</node>
+            <node x="" y="">java.util.HashSet</node>
+            <node x="" y="">java.util.ServiceConfigurationError</node>
+            <node x="" y="">java.util.NoSuchElementException</node>
+            <node x="" y="">java.util.LinkedList</node>
+            <node x="" y="">java.util.Hashtable</node>
+            <node x="" y="">java.util.WeakHashMap</node>
+            <node x="" y="">java.util.LongSummaryStatistics</node>
+            <node x="" y="">java.util.Iterator</node>
+            <node x="" y="">java.util.RandomAccessSubList</node>
+            <node x="" y="">java.util.IllegalFormatFlagsException</node>
+            <node x="" y="">java.util.JapaneseImperialCalendar</node>
+            <node x="" y="">java.util.UnknownFormatConversionException</node>
+            <node x="" y="">java.util.IllegalFormatConversionException</node>
+            <node x="" y="">java.util.ListResourceBundle</node>
+            <node x="" y="">java.util.TimSort</node>
+            <node x="" y="">java.util.PrimitiveIterator</node>
+            <node x="" y="">java.util.AbstractMap</node>
+            <node x="" y="">java.util.IllegalFormatCodePointException</node>
+            <node x="" y="">java.util.jar</node>
+            <node x="" y="">java.util.StringJoiner</node>
+            <node x="" y="">java.util.JumboEnumSet</node>
+            <node x="" y="">java.util.IntSummaryStatistics</node>
+            <node x="" y="">java.util.BitSet</node>
+            <node x="" y="">java.util.Observable</node>
+            <node x="" y="">java.util.Comparator</node>
+            <node x="" y="">java.util.Collections</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2716789667896679" x="2158.0" y="941.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="120" column="12" lean-forward="false" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="131" column="13" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="555" column="20" lean-forward="false" selection-start-line="555" selection-start-column="20" selection-end-line="555" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="754" column="20" lean-forward="false" selection-start-line="754" selection-start-column="20" selection-end-line="754" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/公司真题/src/美团/拼凑钱数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/Main.java">
+    <entry file="file://$PROJECT_DIR$/公司真题/src/美团/最大矩形面积.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="116">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/前面比自己大的数有几个.java">
+    <entry file="file://$PROJECT_DIR$/公司真题/src/今日头条/顺序组合后计算.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="310">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/卖粉笔问题.java">
+    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/组队竞赛.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="41" column="19" lean-forward="false" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="261">
+          <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/input.txt">
+    <entry file="file://$PROJECT_DIR$/公司真题/src/美团/最长公共连续子串.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state relative-caret-position="-310">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/公司真题/src/三六零/交换数使两个数组总和之差最小.java">
+    <entry file="file://$PROJECT_DIR$/公司真题/src/阿里/Main03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="-777">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/公司真题/src/美团/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/公司真题/src/美团/改试卷.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1055">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/单调栈/当前节点往右走多少步走到比自己大的节点.java">
+    <entry file="file://$PROJECT_DIR$/src/动态规划/最长递增子序列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aaa/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/单调栈/直方图中最大矩形的面积.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="87">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/拼凑钱币.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/字符串的排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/排列/全排列可重复取.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/排列/全排列不可重复取非递归.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/排列/数组a中取n个数的所有排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/排列/全排列不重复递归.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合不可重复取.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/组合/取出n个数的所有组合可重复取.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/组合/几个数相加不可重复取暴力.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="44" column="39" lean-forward="false" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/组合/输出数组的所有组合不可重复取.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/组合/输出数组的所有组合可重复取.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/组合/将m分解成n个正整数相加之和的所有组合不可重复取.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排列组合/组合/求将m分解成任意个正整数相加之和的所有组合.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#281#290#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1980,7 +2204,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>multi</last-edited>
+          <last-edited>公司真题</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

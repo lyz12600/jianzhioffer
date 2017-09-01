@@ -1,5 +1,7 @@
 package 排列组合.组合;
 
+import java.util.Arrays;
+
 /**
  * 如a={1,2,3}。当n=2时候的所有组合数为11,12,13,22,23,33
  */
@@ -15,6 +17,7 @@ public class 取出n个数的所有组合可重复取 {
         if (arr == null || arr.length < 1 || n < 1) {
             return;
         }
+        Arrays.sort(arr);
         int[] brr = new int[n];
         combine(arr, brr, n, 0);
     }

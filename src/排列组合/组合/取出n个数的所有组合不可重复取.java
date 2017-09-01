@@ -27,6 +27,7 @@ public class 取出n个数的所有组合不可重复取 {
             System.out.println();
             return;
         }
+
         for (int i = begin; i < a.length; i++) {
             b[index] = a[i];
             getCombination(a, n - 1, i + 1, b, index + 1);

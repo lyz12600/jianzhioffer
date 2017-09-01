@@ -9,33 +9,32 @@ package 排列组合.组合;
  * 1 4
  * 2 3
  */
-public class 几个数相加不可重复取 {
+public class 几个数相加不可重复取暴力 {
     public static void main(String[] args) {
-        几个数相加不可重复取 test = new 几个数相加不可重复取();
+        几个数相加不可重复取暴力 test = new 几个数相加不可重复取暴力();
         test.combine(10, 12);
     }
 
     public static void combine(int m, int n) {
-
         if (m < 1 || n < 1)
             return;
 
-        if (n > m)//如果n>m,把n>m的数去掉
+        if (n > m) {//如果n>m,把n>m的数去掉
             n = m;
+        }
 
         boolean[] b = new boolean[n + 1];//保存是否装包
         getCombination(m, n, b);
     }
 
     public static void getCombination(int m, int n, boolean[] b) {
-
         if (m < 1 || n < 1)//递归出口
             return;
 
         if (m == n) {//输出组合
             b[n] = true;
             for (int i = 1; i < b.length; i++) {
-                if (b[i] == true)
+                if (b[i])
                     System.out.print(i + " ");
 
             }
