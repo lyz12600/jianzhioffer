@@ -35,6 +35,7 @@ public class TransientDemo {
             //这说明反序列化后类中static型变量username的值为当前JVM中对应static变量的值，
             //为修改后llh，而不是序列化时的值lyz。
             user.setUsername("llh");
+            user.setPassword("111");
             ObjectInputStream is = new ObjectInputStream(new FileInputStream("/Users/liyanzhen/user.txt"));
             user = (User) is.readObject();
             is.close();
@@ -52,7 +53,7 @@ public class TransientDemo {
 }
 
 class User implements Serializable {
-    private static String username;
+    private transient String username;
     private transient String password;
 
     public String getUsername() {

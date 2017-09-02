@@ -7,5 +7,6 @@ public class Main {
 //            long n = s.nextLong();
 //            System.out.println(solve(n));
 //        }
+
     }
 }
