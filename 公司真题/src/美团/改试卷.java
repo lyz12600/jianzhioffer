@@ -1,76 +1,33 @@
 package 美团;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.InputStream;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class 改试卷 {
     public static void main(String[] args) {
-        Scanner in = getScanner(System.in);
-//        Scanner in = getScanner("input.txt");
-        while (in.hasNext()) {
-            int n = in.nextInt();
-            int[] numbers = new int[n];
-            for (int i = 0; i < n; i++) {
-                numbers[i] = in.nextInt();
-            }
-            System.out.println(solve(numbers));
-        }
-        in.close();
-    }
-
-    private static String solve(int[] numbers) {
-        if (numbers.length <= 1) {
-            return "No";
-        }
-        return (dispatch(numbers, 0, numbers[0])) ? "Yes" : "No";
-    }
-
-    private static boolean dispatch(int[] numbers, int startPos, int rest) {
-        if (startPos == numbers.length) {
-            return (rest >= numbers[0] && numbers[0] <= sum(numbers, 1));
-        }
-        for (int i = startPos; i < numbers.length; i++) {
-            if (numbers[i] > rest && i != 0) {
-                continue;
-            }
-            swap(numbers, i, startPos);
-            if (dispatch(numbers, i + 1, numbers[i] + rest - Math.min(numbers[i], rest))) {
-                return true;
-            }
-            swap(numbers, i, startPos);
-        }
-        return false;
-    }
-
-    private static void swap(int[] numbers, int p1, int p2) {
-        int tmp = numbers[p1];
-        numbers[p1] = numbers[p2];
-        numbers[p2] = tmp;
-    }
-
-    private static int sum(int[] numbers, int startPos) {
+        Scanner sc = new Scanner(System.in);
         int sum = 0;
-        for (int i = startPos; i < numbers.length; i++) {
-            sum += numbers[i];
+        while (sc.hasNext()) {
+            int size = sc.nextInt();
+            int[] temp = new int[size];
+            for (int i = 0; i < size; i++) {
+                temp[i] = sc.nextInt();
+                sum += temp[i];
+            }
+/**
+ * 证明：
+ * 当把所有的组从大到小排序后，如果最大的组比剩下的所有的组的和都还要大，
+ * 即所有的剩余组分配完成后，最大的组还剩，那么一定不行，否则，当最大组
+ * 在其余组分配完成后一定可以循环下去，且最后最大的那组不会收到属于自己组的。
+ */
+            Arrays.sort(temp);
+            int max = temp[temp.length - 1];
+            if (max - sum + max > 0) {
+                System.out.println("No");
+            } else {
+                System.out.println("Yes");
+            }
         }
-        return sum;
-    }
-
-    //从输入流读取输入数据
-    public static Scanner getScanner(InputStream is) {
-        return new Scanner(is);
-    }
-
-    //从文件读取输入数据
-    public static Scanner getScanner(String fileName) {
-        try {
-            return getScanner(new FileInputStream(fileName));
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
-        return null;
     }
 }
 

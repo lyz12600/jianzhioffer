@@ -18,20 +18,18 @@ public class 第一个只出现一次的字符 {
     }
 
     public static int FirstNotRepeatingChar(String str) {
-        if (str == null || str.length() < 1)
+        if (str == null || str.length() == 0) {
             return -1;
-
-        TreeSet<Character> set = new TreeSet<>();
-        ArrayList<Character> list = new ArrayList<>();
-        for (int i = 0; i < str.length(); i++) {
-            if (set.add(str.charAt(i))) {//set添加成功
-                list.add(str.charAt(i));
-            } else if (list.contains(str.charAt(i))) {
-                list.remove(list.indexOf(str.charAt(i)));
-            }
         }
-        if (set.size() > 0 && list.size() > 0) {
-            return str.indexOf(list.get(0));
+        int[] res = new int['z' + 1];
+        for (int i = 0; i < str.length(); i++) {
+            res[str.charAt(i)]++;
+        }
+
+        for (int j = 0; j < str.length(); j++) {
+            if (res[str.charAt(j)] == 1) {
+                return str.indexOf(str.charAt(j));
+            }
         }
         return -1;
     }

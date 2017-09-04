@@ -46,6 +46,7 @@ public class KMP {
             return -1;
         int i = 0, j = 0;
         int[] next = getNext2(b);
+//        int[] next = getNext1(b);
         while (i < a.length && j < b.length) {
             // 如果j = -1,或者当前字符匹配成功(src[i] = ptn[j]),都让i++,j++
             if (j == -1 || a[i] == b[j]) {
@@ -111,20 +112,11 @@ public class KMP {
             if (k == -1 || b[j] == b[k]) {
                 k++;
                 j++;
-                // 修改next数组求法
-                if (b[j] != b[k]) {
-                    next[j] = k;
-                } else {
-                    next[j] = next[k];
-                }
+                next[j] = k;
             } else {
                 k = next[k];
             }
         }
-        for (int i = 0; i < len; i++) {
-            System.out.print(next[i] + " ");
-        }
-        System.out.println("");
         return next;
     }
 }
