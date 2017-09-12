@@ -22,12 +22,8 @@ public class 合并两个排序的链表 {
     }
 
     public static ListNode merge(ListNode list1, ListNode list2) {
-        if (list1 == null && list1 == null) {
-            return null;
-        } else if (list2 == null) {
-            return list1;
-        } else if (list1 == null) {
-            return list2;
+        if (list1 == null || list2 == null) {
+            return list2 == null ? list1 : list2;
         }
 
         ListNode mergeHead;

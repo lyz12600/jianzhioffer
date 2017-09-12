@@ -3,7 +3,7 @@ package lingsan;
 /**
  * Created by liyanzhen on 17/3/21.
  */
-public class HeLanGuoQi {
+public class 荷兰国旗 {
     public static void main(String[] args) {
         int[] arr = {0, 1, 0, 2, 2, 1};
         createGuoQi(arr);

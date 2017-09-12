@@ -1,7 +1,5 @@
 package 剑指offer;
 
-import 剑指offer.bean.BTreeNode;
-
 /**
  * 二叉树的镜像
  * 8                8
@@ -12,30 +10,35 @@ import 剑指offer.bean.BTreeNode;
  */
 public class 二叉树的镜像 {
     public static void main(String[] args) {
-        BTreeNode g1 = new BTreeNode(7, null, null);
-        BTreeNode f1 = new BTreeNode(4, null, null);
-        BTreeNode e1 = new BTreeNode(2, f1, g1);
-        BTreeNode d1 = new BTreeNode(9, null, null);
-        BTreeNode c1 = new BTreeNode(7, null, null);
-        BTreeNode b1 = new BTreeNode(8, d1, e1);
-        BTreeNode a1 = new BTreeNode(8, b1, c1);
-
-        mirrorRecursively(a1);
-        System.out.println(b1.getLeftNode().getData());
+        TreeNode1 a = new TreeNode1(8);
+        TreeNode1 b = new TreeNode1(6);
+        TreeNode1 c = new TreeNode1(10);
+        TreeNode1 d = new TreeNode1(5);
+        TreeNode1 e = new TreeNode1(7);
+        TreeNode1 f = new TreeNode1(9);
+        TreeNode1 g = new TreeNode1(11);
+        a.left = b;
+        a.right = c;
+        b.left = d;
+        b.right = e;
+        c.left = f;
+        c.right = g;
+        Mirror(a);
+        System.out.println(c.val);
+        System.out.println(c.left.val);
+        System.out.println(c.right.val);
     }
 
-    public static void mirrorRecursively(BTreeNode node) {
-        if (node == null) {
+    public static void Mirror(TreeNode1 root) {
+        if (root == null) {
             return;
         }
-        if (node.getLeftNode() == null && node.getRightNode() == null) {
-            return;
-        }
-
-        BTreeNode temp = node.getLeftNode();
-        node.setLeftNode(node.getRightNode());
-        node.setRightNode(temp);
-        mirrorRecursively(node.getLeftNode());
-        mirrorRecursively(node.getRightNode());
+        TreeNode1 temp;
+        temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+        Mirror(root.left);
+        Mirror(root.right);
     }
 }
+

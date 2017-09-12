@@ -11,8 +11,8 @@ import java.util.Scanner;
  */
 public class DNA片段 {
     public static void main(String[] args) {
-        Scanner s = Template.getScanner("/Users/liyanzhen/IdeaProjects/crazy/src/bishi/input.txt");
-//        Scanner s = new Scanner(System.in);
+//        Scanner s = Template.getScanner("/Users/liyanzhen/IdeaProjects/crazy/src/bishi/input.txt");
+        Scanner s = new Scanner(System.in);
         while (s.hasNextLine()) {
             String str = s.nextLine();
             System.out.println(maxLength(str));
